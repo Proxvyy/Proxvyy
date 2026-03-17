@@ -1,7 +1,9 @@
 # Hey, I'm Enes 👋
 
 🎮 Aspiring game developer from Malta
+
 🏫 Currently Studying Software Developing at MCAST
+
 🛠️ Currently working with Unity, HTML/CSS/JS  
 
 
