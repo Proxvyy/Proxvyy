@@ -2,7 +2,7 @@
 
 🎮 Aspiring game developer from Malta
 
-🏫 Currently Studying Software Developing at MCAST
+🏫 Currently Studying Bachelor's Degree with Honors in  Game Development at MCAST
 
 
 ## 🛠️ Languages I Know
